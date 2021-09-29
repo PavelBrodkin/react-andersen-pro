@@ -1,0 +1,9 @@
+.posts {
+  max-width: 600px;
+  width: 100%;
+  text-align: left;
+}
+
+li {
+ list-style: none;
+}
